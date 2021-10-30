@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+li {
+    color: black;
+    width: 250px;
+}
+
+.link-header {
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.945);
+}
+
+footer {
+    background-color: rgb(157, 207, 82);
+}
+
+.social {
+    width: 50px;
+}
